@@ -1,11 +1,13 @@
 # Omadica 
-Omadica is a GitHub organization that provides open-source solutions for video surveillance. Recently, we have been experiencing an increasing demand for smart cameras for homes, small and medium businesses, but **what do we know about their privacy policies?**
+Omadica is a GitHub organization that provides open-source solutions for video surveillance. Recently, we have been experiencing an increasing demand of smart cameras for homes, small and medium businesses, but **what do we know about their privacy policies?**
 
-An intelligent IP camera can record our lives continuously, but who is able to access this data? How is it stored? How is it processed? **ALL** companies that provide this kind of service have unclear policies, or worse, they are pushy to sign a monthly subscription for giving access to a *"control room"* to verify the pictures/audio/videos of the alarms and in case of threat they can call the police.
+An intelligent IP camera can record our lives continuously, but who is able to access this data? How is it stored? How is it processed? Whithin the zoo of the smart-camera manufacturer companies, the WebRTC connection and video persistency on their could have unclear policies. Some of them are pushy to sign a monthly subscription for giving access to a *"control room"* to verify the pictures/audio/videos of the alarms and in case of threat they can call the police.
 
-Considering that alarms are most often activated by false threats, it is clear that this context has severe privacy laws. Instead of actual threats, the guards can see our everyday lives, habits, discussions, and much more. Moreover, the cost of the service is definitely overpriced!
+Considering that alarms are most often activated by false threats, it is clear that this context has severe privacy leaks. Instead of actual threats, the guards can see our everyday lives, habits, discussions, and much more. Moreover, the cost of the service is definitely overpriced!
 
-Omadica is a response to the growing need for freedom and transparency in surveillance services. Our GitHub organization offers suggestions for open-source software that can be installed on a Raspberry Pi for managing IP cameras and ensuring video and audio persistence.
+Omadica is a response to the growing need for freedom and transparency in surveillance services. Our GitHub organization offers suggestions for open-source software that can be installed on a Raspberry Pi for managing IP cameras and ensuring the access grants at video and audio recorders only to the end-users.
+
+We also offer a desktop client for monitoring the camera live streams, draw analytics, playback of records and much more.
 
 ## Description of services
 * Media Proxy
