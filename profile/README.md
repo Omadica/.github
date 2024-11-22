@@ -1,16 +1,11 @@
-# Omadica 
-Omadica is a GitHub organization born from the people's need to claim a non spying video surveillance system!
+We present a complete kit for video surveillance for end-users and small retailers. We believe in our on-prem solutions! You can buy the suggested hardware and install and run our software solutions (you can find compiled binary and sources in this organization) on your devices. No remote controls, no cloud, no costly subscriptions, and no third person can access your data.  
 
-Recently, we have been experiencing an increasing demand for smart cameras dedicated to homes and small/medium businesses, but what do we know about their privacy policies?
-An intelligent IP camera can record our lives continuously, but who can access this data? How is it stored? How is it processed? 
+More often than not, non-on-prem solutions behind the promise of better coverage or greater security lie only in a violation of end-user privacy.
 
-Within the zoo of smart-camera manufacturer companies, the WebRTC connection and video persistency on their devices could have unclear policies. Some of them are pushy about signing a monthly subscription to give access to a "control room" to verify the pictures/audio/videos of the alarms, and in case of a threat, they can call the police.
+Omadica responds to the growing need for freedom and transparency in surveillance services. Our GitHub organization offers suggestions for open-source software that anyone can install on a Raspberry Pi (or similar hardware) and quickly create video surveillance customized to your needs.
 
-Considering that alarms are most often activated by false threats, this context clearly has severe privacy leaks. Instead of actual threats, the guards can see our everyday lives, habits, discussions, and much more. Moreover, the cost of the service is definitely overpriced!
-
-Omadica responds to the growing need for freedom and transparency in surveillance services. Our GitHub organization offers suggestions for open-source software that can be installed on a  Raspberry Pi to manage IP cameras and ensure only access to video and audio recorders to the end-users.
-
-We also offer a desktop client for monitoring camera live streams, drawing analytics, record playback, and much more.
+If you are not a hacking guy and prefer to have a just installed and working system, you can contact us at integration@omadica.com expressing your needs, and we will send you a quotation.
+Once the system is sent, we cannot access it anymore, and the system's control will be up to you. 
 
 ## Suggested hardware
 We present the hardware that have been tested with Omadica system. The following list what we would like to suggest as hardware components but you don't have to use those (obviously you can...)
