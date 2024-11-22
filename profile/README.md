@@ -1,6 +1,6 @@
-We present a complete video surveillance kit for end-users and small retailers. We believe in our on-prem solutions! You can buy the suggested hardware and install and run our software solutions (you can find compiled binary and sources in this organization) on your devices. No remote controls, no cloud, no costly subscriptions, and no third person can access your data.  
+We present a complete video surveillance kit for end-users and small retailers. You can buy the suggested hardware and install and run our software solutions (you can find compiled binary and sources in this organization) on your devices. No remote controls, no cloud, no costly subscriptions, and no third person can access your data. 
 
-More often than not, non-on-prem solutions behind the promise of better coverage or greater security lie only in a violation of end-user privacy.
+We believe in our on-prem solutions! More often than not, non-on-prem solutions behind the promise of better coverage or greater security lie only in a violation of end-user privacy.
 
 Omadica responds to the growing need for freedom and transparency in surveillance services. Our GitHub organization offers suggestions for open-source software that anyone can install on a Raspberry Pi (or similar hardware) and quickly create video surveillance customized to your needs.
 
