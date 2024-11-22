@@ -1,11 +1,13 @@
-We present a complete video surveillance kit for end-users and small retailers. We believe in our on-prem solutions! You can buy the suggested hardware and install and run our software solutions (you can find compiled binary and sources in this organization) on your devices. No remote controls, no cloud, no costly subscriptions, and no third person can access your data.  
+We present a complete kit for video surveillance for end-users and small retailers. We believe in our on-prem solutions! You can buy the suggested hardware and install and run our software solutions (you can find compiled binary and sources in this organization) on your devices. No remote controls, no cloud, no costly subscriptions, and no third person can access your data.  
 
 More often than not, non-on-prem solutions behind the promise of better coverage or greater security lie only in a violation of end-user privacy.
 
 Omadica responds to the growing need for freedom and transparency in surveillance services. Our GitHub organization offers suggestions for open-source software that anyone can install on a Raspberry Pi (or similar hardware) and quickly create video surveillance customized to your needs.
 
-If you are not a hacking guy and prefer to have a just installed and working system, you can contact us at integration@omadica.com expressing your needs, and we will send you a quotation.
+If you are not a hacking guy and prefer a just-installed and working platform, you can contact us at integration@omadica.com to express your needs. We will process your request and send you a quotation soon. The quotation will cover just hardware + shipment cost. If you are satisfied with our products, please leave a small economic contribution using a GitHub donation. 
+
 Once the system is sent, we cannot access it anymore, and the system's control will be up to you. 
+ 
 
 ## Suggested hardware
 We present the hardware that have been tested with Omadica system. The following list what we would like to suggest as hardware components but you don't have to use those (obviously you can...)
