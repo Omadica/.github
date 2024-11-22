@@ -4,7 +4,9 @@ More often than not, non-on-prem solutions behind the promise of better coverage
 
 Omadica responds to the growing need for freedom and transparency in surveillance services. Our GitHub organization offers suggestions for open-source software that anyone can install on a Raspberry Pi (or similar hardware) and quickly create video surveillance customized to your needs.
 
-If you are not a hacking guy and prefer a just-installed and working platform, you can contact us at integration@omadica.com to express your needs. We will process your request and send you a quotation soon. The quotation will cover just hardware + shipment cost. If you are satisfied with our products, please leave a small economic contribution or better, become our sponsor [![](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://github.com/sponsors/Omadica) Sponsors are very important for us because all of our work is based on free offerings.
+If you are not a hacking guy and prefer a just-installed and working platform, you can contact us at integration@omadica.com to express your needs. We will process your request and send you a quotation soon. The quotation will cover just hardware + shipment cost. If you are satisfied with our products, please leave a small economic contribution or better, become our sponsor [![](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://github.com/sponsors/Omadica) 
+
+The sponsors are very important for us because all of our work is based on free offerings.
 
 Once the system is sent, we cannot access it anymore, and the system's control will be up to you. 
  
