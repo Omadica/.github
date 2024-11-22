@@ -1,4 +1,4 @@
-We present a complete kit for video surveillance for end-users and small retailers. We believe in our on-prem solutions! You can buy the suggested hardware and install and run our software solutions (you can find compiled binary and sources in this organization) on your devices. No remote controls, no cloud, no costly subscriptions, and no third person can access your data.  
+We present a complete video surveillance kit for end-users and small retailers. We believe in our on-prem solutions! You can buy the suggested hardware and install and run our software solutions (you can find compiled binary and sources in this organization) on your devices. No remote controls, no cloud, no costly subscriptions, and no third person can access your data.  
 
 More often than not, non-on-prem solutions behind the promise of better coverage or greater security lie only in a violation of end-user privacy.
 
